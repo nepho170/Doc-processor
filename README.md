@@ -30,7 +30,7 @@ Download and install from [https://nodejs.org](https://nodejs.org)
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/ymu4/doc-processor.git
+git clone https://github.com/team-seen/Doc-processor.git
 cd doc-processor
 ```
 
