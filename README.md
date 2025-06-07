@@ -120,7 +120,6 @@ src/
 │   ├── workflowEditor.js
 │   └── workflowGenerator.js
 
-└── tmp/
 ```
 
 ---
